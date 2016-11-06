@@ -1,0 +1,11 @@
+call UPDATE_USERS(null, "Mike", "Combs", "mike@gmail.com", "12@sd3#d", "0001112222", "000 Long Beach Ave", "Freeport", 11520, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Jill", "Combs", "Jill@gmail.com", "12@sd3#d", "1112223333", "111 Long Beach Ave", "Freeport", 11520, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Bob", "Combs", "Bob@gmail.com", "12@sd3#d", "2223334444", "222 Long Beach Ave", "Baldwin", 11510, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Sam", "Winchester", "Sam@gmail.com", "12@sd3#d", "3334445555", "333 Long Beach Ave", "Baldwin", 11510, "NY", "USA", 1,1);
+call UPDATE_USERS(null, "Chuntak", "Kong", "chuntak@gmail.com", "12@sd3#d", "4445556666", "444 Long Beach Ave", "Wantagh", 11551, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Joe", "Tung", "joe@gmail.com", "12@sd3#d", "5556667777", "555 Long Beach Ave", "Wantagh", 11551, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Robert", "Trujillo", "robert@gmail.com", "12@sd3#d", "6667778888", "666 Long Beach Ave", "Wantagh", 11551, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Saba", "Babar", "saba@gmail.com", "12@sd3#d", "7778889999", "777 Long Beach Ave", "Wantagh", 11551, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Janery", "Vasquez", "janery@gmail.com", "12@sd3#d", "8889990000", "888 Long Beach Ave", "Merrick", 11550, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "Wally", "Onigemo", "wally@gmail.com", "12@sd3#d", "9990001111", "999 Long Beach Ave", "Merrick", 11550, "NY", "USA", 0,1);
+call UPDATE_USERS(null, "David", "Lin", "david@gmail.com", "12@sd3#d", "1234567890", "123 Long Beach Ave", "Town", 11234, "NY", "USA", 0,1);

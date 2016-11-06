@@ -1,0 +1,12 @@
+DELIMITER $$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `DELETE_USERS`(IN userId INT)
+BEGIN
+	IF EXISTS(
+		SELECT * FROM USERS
+        WHERE USERS.UserId = userId
+    ) THEN
+		DELETE FROM USERS
+		WHERE USERS.UserId = userId;
+    End if;
+END$$
+DELIMITER ;
